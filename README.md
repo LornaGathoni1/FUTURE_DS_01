@@ -23,7 +23,7 @@ I implemented ** sentiment classification using Random Forest, and deployed the 
  **Performs Sentiment Analysis** (Positive, Neutral, Negative)  
  **Trains a Random Forest Model** for sentiment classification  
  **Deploys model using Flask** for real-time predictions  
- **Builds a Power BI/Excel Dashboard** to visualize trends  
+ **Builds a Power BI dashboard** to visualize trends  
 
 ---
 
